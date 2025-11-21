@@ -1,6 +1,9 @@
 {
   "name": "bar-tapioca-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "22.x"
+  },
   "dependencies": {
     "@supabase/supabase-js": "^2.38.0",
     "bcryptjs": "^2.4.3"
